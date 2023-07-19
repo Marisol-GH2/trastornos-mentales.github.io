@@ -1,0 +1,54 @@
+body{
+    background-color:rgb(249, 206, 213);
+    font-family: 'Bacasime Antique', serif;
+    font-size: larger;
+}
+
+.titulo{
+    color: black;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: palevioletred;
+}
+
+h3{
+    color: darkblue;
+}
+p{
+    color: rgb(148, 17, 98) ;
+}
+.imagen1{
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.imagen2{
+    width: 300px;
+    margin-left: 1px;
+}
+
+.imagen3{
+    width: 300px;;
+}
+
+.imagen4{
+    width:250px;
+}
+
+.imagen5{
+    width: 310px;
+}
+
+
+a{
+    color: black;
+    text-decoration: underline;
+
+}
+
